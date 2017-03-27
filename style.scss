@@ -18,6 +18,7 @@ html {
 }
 
 body {
+	background-image: url("http://www.sebaschan.de/wp-content/gallery/cologne-night/cologne_night_0003.jpg");
 	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
@@ -42,6 +43,13 @@ h1, h2, h3, h4, h5, h6 {
   @include mobile {
     line-height: 1.4;
   }
+}
+table {
+    width: 100%;
+}
+
+th {
+    height: 50px;
 }
 
 h1 {
