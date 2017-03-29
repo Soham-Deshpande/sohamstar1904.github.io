@@ -250,10 +250,13 @@ img {
 }
 
 nav {
-  float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  float: left;
+  display: block;
+  width: 60px;
+  background-color: #dddddd;
   font-family:  'Syncopate' ;
   font-size: 18px;
+}
 
   @include mobile {
     float: none;
