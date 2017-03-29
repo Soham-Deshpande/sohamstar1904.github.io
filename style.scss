@@ -195,7 +195,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid #ffffff;
 
   @include mobile {
     text-align: center;
@@ -266,7 +266,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: #ffffff;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -295,7 +295,7 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 2px solid #ffffff;
     padding: 0.1em 1em;
     color: #ffffff ;
     font-size: 22px;
