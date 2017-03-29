@@ -21,6 +21,7 @@ body {
   background-image: url("http://i1.ytimg.com/vi/ap_osa6PhG4/maxresdefault.jpg");
   font: 18px/1.4 $helvetica;
   color: $darkGray;
+  background-attachment: fixed;
 }
 
 .container {
@@ -45,14 +46,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 table, td, th {
     border: 3px solid #00ff00 ;
-    opacity: 0.80;    
+    opacity: 0.85;    
 }
 
 table {
     border-collapse: collapse;
     width: 100%;
      box-shadow: 10px grey;
-    opacity: 0.80;
+    opacity: 0.85;
 }
 
 th {
