@@ -250,12 +250,11 @@ img {
 }
 
 nav {
-  float: left;
+  float: right;
   display: block;
   width: 60px;
-  background-color: #dddddd;
   font-family:  'Syncopate' ;
-  font-size: 18px;
+  font-size: 22px;
 
 
   @include mobile {
