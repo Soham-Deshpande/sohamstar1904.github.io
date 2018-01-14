@@ -264,7 +264,7 @@ img {
 }
 
 nav {
-  float: left;
+  float: right;
   display: block;
   width: 60px;
   font-family:  'Syncopate' ;
@@ -332,7 +332,7 @@ nav {
 .wrapper-footer {
   margin-top: 50px;
   border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #fff;
   background-color: $lightGray;
 }
 
