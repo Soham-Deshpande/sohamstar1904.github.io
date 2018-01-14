@@ -267,13 +267,10 @@ nav {
   float: right;
   display: block;
   width: 60px;
-  font-family:  'Syncopate' ;
+  margin-top: 23px;
+font-family:  'Syncopate' ;
   font-size: 22px;
-  margin: 0;
-  padding: 100;
- 
-
-
+  
   @include mobile {
     float: none;
     margin-top: 9px;
