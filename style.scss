@@ -265,10 +265,11 @@ img {
 
 nav {
   float: right;
-  //width: 60px;
   margin-top: 23px;
 font-family:  'Syncopate' ;
   font-size: 22px;
+  position: fixed;
+  top: 0;
 
   
   @include mobile {
