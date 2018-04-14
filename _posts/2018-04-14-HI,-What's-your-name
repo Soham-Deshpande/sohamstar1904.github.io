@@ -1,0 +1,30 @@
+---
+title: HI, What's your name?
+layout: post
+author: soham.deshpande
+permalink: /hi,-what's-your-name?/
+source-id: 1KjJzMlrHaQfi41JWJMe_T0TzKUw8hTRQ4JWvjTlLfE0
+published: true
+---
+<table>
+  <tr>
+    <td>Hi, What's your name?</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td>This week we had to create a program where the computer would ask you questions and then the you would have to respond with a certain response. When asking the questions, you had to think about getting answers which are simple such as yes or no. This  was needed as the computer cannot understand what the user types in but can only do certain actions if it gets a certain response. When trying to get only one response, you have to make sure there are no capital letters or there are no small letters. This was because if you the computer is going to give a certain response if you type yes or no, it is not going to understand 'YES' or ‘NO’. For this we used  .lower(). Another thing we had to consider is what happens if the person types in something other than yes or no. This is why a while loop was used. In this while loop it repeats the question until it gets either yes or no where you add a ‘break’ which breaks the loop.
+</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td>Next week I want to add  a points system on the answers which are given.</td>
+  </tr>
+</table>
+
+
