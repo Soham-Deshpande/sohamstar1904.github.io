@@ -6,11 +6,26 @@ permalink: /computer-science-notes/
 source-id: 19XM7rrtULEpPILO03KSx8Qpw2rBu3_NhAkTqYoRZSe0
 published: true
 ---
-Notes
+<table>
+  <tr>
+    <td>Notes</td>
+  </tr>
+</table>
 
-Overflow- a computer can only handle 8 bit. If there is a 9th or more  bit, it is called an overflow
 
-Addition
+<table>
+  <tr>
+    <td>Overflow- a computer can only handle 8 bit. If there is a 9th or more  bit, it is called an overflow</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td>Addition</td>
+  </tr>
+</table>
+
 
 <table>
   <tr>
