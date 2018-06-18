@@ -105,8 +105,13 @@ That is called standard form in maths. In binary it is called a floating point.
 
 In binary, the maximum number of "things" is 256 in 8 bit. You can only count upto 255 as you skip zero.
 
+ 
 
 
+
+In ascii there are only 128 possibilities.
+
+  
 8 bits = 1 Byte
 1024 Bytes = 1 kB
 1024 kB = 1mB
@@ -132,7 +137,18 @@ A FLOP is a floating point operation. Computers run on teraflops.
 
 
 
- </td>
+2 1
+2 0
+2 -1
+2 -2
+2
+1
+1/2
+1/4
+
+
+ 
+</td>
   </tr>
 </table>
 
