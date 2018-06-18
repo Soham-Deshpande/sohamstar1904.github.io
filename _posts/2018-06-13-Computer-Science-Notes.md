@@ -91,3 +91,49 @@ published: true
 </table>
 
 
+<table>
+  <tr>
+    <td>
+To multiply a binary digit by 2, you do a binary shift. This is when you add a 0 at the end.
+
+
+1010101010 x 2=
+10101010100
+
+1.23456 x 10⁷
+That is called standard form in maths. In binary it is called a floating point.
+
+In binary, the maximum number of "things" is 256 in 8 bit. You can only count upto 255 as you skip zero.
+
+
+
+8 bits = 1 Byte
+1024 Bytes = 1 kB
+1024 kB = 1mB
+1024 mB = 1GB
+1024 GB = 1TB
+1024 TB = 1 PetaBYte
+        = 1 ExaByte
+        = 1 ZetaBYte
+        = 1 YottaByte
+
+
+
+
+A FLOP is a floating point operation. Computers run on teraflops.
+
+
+
+08 bit = 256   = 2⁸
+16 bit = 25536 = 2¹⁶
+32 bit =       = 2 32
+64 bit =       = 2 64
+
+
+
+
+ </td>
+  </tr>
+</table>
+
+
