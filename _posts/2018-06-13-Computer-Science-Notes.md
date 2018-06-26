@@ -153,3 +153,84 @@ A FLOP is a floating point operation. Computers run on teraflops.
 </table>
 
 
+<table>
+  <tr>
+    <td>  4A = 74
++ DC = 220
+ ---------
+ 126
+
+ 49
+ 56
+----
+ 9F
+
+tinyurl.com/ydy9t35n
+Computing resources
+https://sites.google.com/challoners.org/computing-resources/python_coding_resources
+</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td>There are 4 main types. Boolean 
+
+Why is ascii 7 bit and unicode 8 bit?- Exam question
+Unicode can encode 256 characters. Standard unicode works in 8 bit however has unicode is universal, it has to work for different languages. This adds more characters to Unicode. That is why unicode now works in 32 bit which has around 4 billion possibilities.
+
+
+
+THE FETCH/EXECUTE/DECODE CYCLE#
+
+http://www.hartismere.com/CPU-Fetch-Decode-Execute-Animation-20398
+
+
+How a computer works
+
+It consists of memory and CPU. The key parts in the CPU are 
+
+AC - Accumulator.Holds pieces of processed data
+Arithmetic Logic unit-  adds, divides,multiply, greater than …
+Control Unit- Decides what is going to happen
+
+Registers:
+
+MAR- Memory address register
+CIR- Control instruction register
+PC - Program counter
+MAR- Memory data register
+ 
+
+Assembly language is basic instruction set
+
+The main component on any computer is the CPU, which stands for Central Processing Unit. The CPU gets instructions and then performs calculations. If a processor can only process one set of instructions at a single, that means it has only a single core.
+
+the PCI Special Interest Group (PCI-SIG) said that the new version "doubles the interconnect bit rate from 2.5 GT/s to 5 GT/s." Most of us are used to seeing bus speeds specified in Gbps, or gigabits per second, but GT/s stands for gigatransfers per second.
+
+
+
+CPU-1-The central processing unit. This carries out all of the programs.
+RAM-2- Random access memory. This stores data and machine code which can be called upon at any time.
+MOTHERBOARD- All-The main circuit board
+PCI EXPANSION-3- It is a circuit board which can be slotted in to add functionality via the expansion busNORTH BRIDGE-Reads”Gigabyte” It is a core logic chipset which is used for tasks which require the highest performance
+
+SOUTH BRIDGE-4-It is a chipset which handles lower performance tasksBIOS- Basic input output system. It is a firmware which is used during power on of the device.STORAGE- Stores the data.
+
+Draw the image and label the motherboard with the labels and explain in our own words.
+
+
+                                                     Bios
+
+
+
+
+
+
+
+                                     Storage</td>
+  </tr>
+</table>
+
+
